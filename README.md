@@ -1,7 +1,7 @@
 # ot-control
 MIT License
 
-Copyright (c) [2017] [TweezerControl6.3.3.1a.vi]
+Copyright (c) [2018] [Magnus Andersson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
