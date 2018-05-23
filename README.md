@@ -1,3 +1,6 @@
+
+### This code is associated with the paper from Spaulding et al., "Functional role of the type 1 pilus rod structure in mediating host-pathogen interactions". eLife, 2018. http://dx.doi.org/10.7554/eLife.31662
+
 # ot-control
 MIT License
 
